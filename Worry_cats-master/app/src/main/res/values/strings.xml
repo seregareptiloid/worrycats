@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Worry dolls</string>
+    <string name="worry_cats">Worry cats</string>
+    <string name="tell_your_worry">Tell your worry</string>
+    <string name="image">image</string>
+    <string name="i_am_worried_about">I am worried about...</string>
+    <string name="worries">Worries</string>
+    <string name="defeated_worries">Defeated worries</string>
+    <string name="security">Security</string>
+    <string name="share_with_friends">Share with friends</string>
+    <string name="i_will_worry_for_you">I will worry for you.</string>
+    <string name="tell_me_what_to_worry_about">Tell me what to worry about.</string>
+    <string name="i_am_worried_because">I am worried because....</string>
+    <string name="tell_your_worry">Tell your worry</string>
+    <string name="now_this_worry_with_me">Now this worry with me.</string>
+    <string name="tochki">...</string>
+    <string name="i_was_worried_because">I was worried because..</string>
+    <string name="ok">OK</string>
+</resources>
